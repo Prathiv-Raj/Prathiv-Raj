@@ -12,6 +12,24 @@
   - [Retrieving the metadata of a file](https://github.com/Prathiv-Raj/Meta_Data)
 - <b>Prathiv-Raj</b>
   - [my-Fort-Folio)](https://github.com/Prathiv-Raj/Prathiv-Raj)
+ 
+<h2> 🥷🏻 Skills :</h2>
+
+- <b>Python</b>
+- <b>Linux</b>
+- <b>Windows</b>
+- <b>Web Development</b>
+- <b>Problem Solving</b>
+- <b>Type Writing</b>
+
+<h2> 🔎 Cyber Security Tools :</h2>
+
+- <b>Nmap</b>
+- <b>Metasploit Framework</b>
+- <b>Burp Suit</b>
+- <b>Wire Shark</b>
+- <b>Nikto</b>
+- <b>Social Engineering Toolkit</b>
 
 <h2>🎓 Education</h2>
 
