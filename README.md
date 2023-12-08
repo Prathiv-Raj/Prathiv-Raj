@@ -1,7 +1,8 @@
-### Hi there 👋
+<h1>Hi, I'm Prathiv_Raj..! <br/><a href="https://github.com/Prathiv-Raj">Programmer</a>, <a href="https://www.linkedin.com/in/prathiv-raj-735a1b260/">Cybersecurity Professional</a></h1>
+
 
 <!--
-**Prathiv-Raj/Prathiv-Raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
