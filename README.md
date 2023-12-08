@@ -22,6 +22,18 @@
 | H.S.C               | 2020            | Govt. Hr. Sec. school Sukkampatty | State Board           | 64%               |
 | S.S.L.C             | 2018            | Govt. High School Achankuttapatti | State Board           | 82%               | 
 
+<h2> 🤳 Connect with me:</h2>
+
+[<img  alt="JoshMadakor | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][youtube]&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ [<img  alt="JoshMadakor | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[<img alt="JoshMadakor | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>GITHUB&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  LINKED IN&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;   INSTAGRAM
+
+
+[youtube]: https://github.com/Prathiv-Raj
+[instagram]: https://www.instagram.com/_raider__raj_/
+[linkedin]: https://www.linkedin.com/in/prathiv-raj-735a1b260/
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
