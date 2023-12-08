@@ -1,5 +1,9 @@
 <h1>Hi, I'm Prathiv_Raj..! <br/><a href="https://github.com/Prathiv-Raj">Programmer</a>, <a href="https://www.linkedin.com/in/prathiv-raj-735a1b260/">Cybersecurity Professional</a></h1>
 
+<h2>💼 Resume:</h2>
+
+&ensp;&ensp;&ensp;&ensp;&ensp;🔗 [My_Resume](https://www.canva.com/design/DAF2ZOAfpWs/6RnkT19opFgHzcEjAizuGw/view?utm_content=DAF2ZOAfpWs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Pyrhon-Tutorial</b>
