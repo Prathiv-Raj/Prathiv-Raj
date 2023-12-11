@@ -32,7 +32,7 @@
 
 &ensp;&ensp;&ensp;&ensp;&ensp;🔗 [Hack The Box](https://app.hackthebox.com/profile/cyberbot007)
 
-&ensp;&ensp;&ensp;&ensp;&ensp;🔗 [Try Hack Me](https://tryhackme.com/p/RAJ)
+&ensp;&ensp;&ensp;&ensp;&ensp;🔗 [Try Hack Me](https://tryhackme.com/p/PrathivRaj)
 
 &ensp;&ensp;&ensp;&ensp;&ensp;🔗 [Code Chef](https://www.codechef.com/users/raj_python)
 
