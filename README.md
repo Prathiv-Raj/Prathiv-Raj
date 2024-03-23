@@ -7,7 +7,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Supper-Market-Management</b>
-  - [Full Stack](https://github.com/Prathiv-Raj/Full-Stack)
+  - [Full Stack](http://localhost/Super_Market-main-main/)
 - <b>Pyrhon-Tutorial</b>
   - [learn Python](https://github.com/Prathiv-Raj/python-tutorial)
 - <b>Encrypt_and_Decrypt</b>
