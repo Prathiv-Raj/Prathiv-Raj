@@ -6,18 +6,21 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Supper-Market-Management</b>
-  - [Full Stack](http://localhost/Super_Market-main-main/)
+- <b>Prathiv-Raj</b>
+  - [my-Fort-Folio)](https://github.com/Prathiv-Raj/Prathiv-Raj)
+- <b>Password-Cracking-Tool</b>
+  - [Crack The Password](https://github.com/Prathiv-Raj/Password-Cracking-Tool.git)
 - <b>Pyrhon-Tutorial</b>
   - [learn Python](https://github.com/Prathiv-Raj/python-tutorial)
+- <b>Supper-Market-Management</b>
+  - [Full Stack](https://github.com/Prathiv-Raj/Full-Stack.git)
 - <b>Encrypt_and_Decrypt</b>
   - [cryptography project](https://github.com/Prathiv-Raj/Encryt_and_Decrypt)
 - <b>Rock_Paper_sesor</b>
   - [You can play Rock paper sesor game](https://github.com/Prathiv-Raj/Rock_Paper_Sesor)
 - <b>Meta_Data</b>
   - [Retrieving the metadata of a file](https://github.com/Prathiv-Raj/Meta_Data)
-- <b>Prathiv-Raj</b>
-  - [my-Fort-Folio)](https://github.com/Prathiv-Raj/Prathiv-Raj)
+
  
 <h2> 🥷🏻 Skills :</h2>
 
@@ -58,14 +61,14 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img  alt="JoshMadakor | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][youtube]&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[<img  alt="JoshMadakor | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
  [<img  alt="JoshMadakor | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 [<img alt="JoshMadakor | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>GITHUB&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  LINKED IN&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;   INSTAGRAM
 
 
-[youtube]: https://github.com/Prathiv-Raj
-[instagram]: https://www.instagram.com/_raider__raj_/
+[github]: https://github.com/Prathiv-Raj
+[instagram]: https://www.instagram.com/_cyber__bot_/
 [linkedin]: https://www.linkedin.com/in/prathiv-raj-735a1b260/
 
 <!--
