@@ -2,7 +2,7 @@
 
 <h2>💼 Resume:</h2>
 
-&ensp;&ensp;&ensp;&ensp;&ensp;🔗 [My_Resume]([https://www.canva.com/design/DAF2ZOAfpWs/6RnkT19opFgHzcEjAizuGw/view?utm_content=DAF2ZOAfpWs&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://1drv.ms/b/c/d9082a29ddc98052/Ea8lWvy3IOtPpPHM0dfER9gB35SyGrbFAVihkhYQORf2UQ?e=LM0IZ1))
+&ensp;&ensp;&ensp;&ensp;&ensp;🔗 [My_Resume](https://1drv.ms/b/c/d9082a29ddc98052/Ea8lWvy3IOtPpPHM0dfER9gB35SyGrbFAVihkhYQORf2UQ?e=LM0IZ1)
 
 <h2>👨‍💻 Projects:</h2>
 
