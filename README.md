@@ -2,12 +2,12 @@
 
 <h2>💼 Resume:</h2>
 
-&ensp;&ensp;&ensp;&ensp;&ensp;🔗 [My_Resume](https://www.canva.com/design/DAF2ZOAfpWs/6RnkT19opFgHzcEjAizuGw/view?utm_content=DAF2ZOAfpWs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+&ensp;&ensp;&ensp;&ensp;&ensp;🔗 [My_Resume]([https://www.canva.com/design/DAF2ZOAfpWs/6RnkT19opFgHzcEjAizuGw/view?utm_content=DAF2ZOAfpWs&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://1drv.ms/b/c/d9082a29ddc98052/Ea8lWvy3IOtPpPHM0dfER9gB35SyGrbFAVihkhYQORf2UQ?e=LM0IZ1))
 
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Prathiv-Raj</b>
-  - [my-Fort-Folio)](https://github.com/Prathiv-Raj/Prathiv-Raj)
+  - [my-Fort-Folio](https://github.com/Prathiv-Raj/Prathiv-Raj)
 - <b>Password-Cracking-Tool</b>
   - [Crack The Password](https://github.com/Prathiv-Raj/Password-Cracking-Tool.git)
 - <b>Pyrhon-Tutorial</b>
