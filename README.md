@@ -2,7 +2,7 @@
 
 <h2>💼 Resume:</h2>
 
-&ensp;&ensp;&ensp;&ensp;&ensp;🔗 [My_Resume](https://1drv.ms/b/c/d9082a29ddc98052/Ea8lWvy3IOtPpPHM0dfER9gB35SyGrbFAVihkhYQORf2UQ?e=LM0IZ1)
+&ensp;&ensp;&ensp;&ensp;&ensp;🔗 [My_Resume](https://onedrive.live.com/?cid=D9082A29DDC98052&sb=name&sd=1&id=D9082A29DDC98052%21s558925bc4c654fbb99a042e1c188e5f4&parId=D9082A29DDC98052%21s24270e4f1c9c42be86ae32dd1e89e3e2&o=OneUp)
 
 <h2>👨‍💻 Projects:</h2>
 
