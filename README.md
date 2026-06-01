@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,25,25,25&height=200&section=header&text=PRATHIV%20RAJ&fontSize=60&fontColor=ff0000&fontAlignY=38&desc=Red%20Team%20Operator%20%7C%20Offensive%20Security&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,25,25,25&height=200&section=header&text=PRATHIV%20RAJ&fontSize=60&fontColor=ff0000&fontAlignY=38&desc=Red%20Team%20%7C%20Offensive%20Security&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
