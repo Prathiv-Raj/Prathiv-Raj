@@ -10,7 +10,7 @@
 >
 > 🔴 **Red Team Operator** &nbsp;|&nbsp; 💀 **Offensive Security Professional** &nbsp;|&nbsp; ⚔️ **Ethical Hacker**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Red+Team+Operator;Penetration+Tester;Exploit+Developer;Adversary+Simulation;Always+Attacking+to+Defend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Red+Team+Engineer;Penetration+Tester;Exploit+Developer;Adversary+Simulation;Always+Attacking+to+Defend)](https://git.io/typing-svg)
 
 ![](https://img.shields.io/badge/STATUS-ACTIVE-red?style=for-the-badge&logo=target&logoColor=white)
 ![](https://img.shields.io/badge/CLEARANCE-ETHICAL-black?style=for-the-badge&logo=shield&logoColor=red)
