@@ -8,7 +8,7 @@
 
 > **`> whoami`**
 >
-> 🔴 **Red Team Operator** &nbsp;|&nbsp; 💀 **Offensive Security Professional** &nbsp;|&nbsp; ⚔️ **Ethical Hacker**
+> 🔴 **Red Team Engineer** &nbsp;|&nbsp; 💀 **Offensive Security Professional** &nbsp;|&nbsp; ⚔️ **Ethical Hacker**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Red+Team+Engineer;Penetration+Tester;Exploit+Developer;Adversary+Simulation;Always+Attacking+to+Defend)](https://git.io/typing-svg)
 
@@ -24,7 +24,7 @@
 
 ```bash
 $ cat /etc/current_status
-[*] Role     : Red Team Operator
+[*] Role     : Red Team Engineer
 [*] Focus    : Adversary Simulation | Offensive Security | Exploit Development
 [*] Status   : Actively compromising (ethically)
 [*] Location : India
