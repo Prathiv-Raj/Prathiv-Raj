@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,25,25,25&height=200&section=header&text=PRATHIV%20RAJ&fontSize=60&fontColor=ff0000&fontAlignY=38&desc=Red%20Team%20%7C%20Offensive%20Security&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://github.com/Prathiv-Raj/Prathiv-Raj/blob/main/Logo.png"/>
 
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -89,7 +89,7 @@ $ cat /etc/current_status
 [![GitHub](https://img.shields.io/badge/GitHub-Prathiv--Raj-181717?style=for-the-badge&logo=github)](https://github.com/Prathiv-Raj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prathiv--raj-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prathiv-raj-735a1b260/)
 [![Instagram](https://img.shields.io/badge/Instagram-_cyber__bot__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_cyber__bot_/)
-[![Resume](https://img.shields.io/badge/Resume-View%20Here-FF0000?style=for-the-badge&logo=googledrive)](https://onedrive.live.com/?cid=D9082A29DDC98052&sb=name&sd=1&id=D9082A29DDC98052%21s558925bc4c654fbb99a042e1c188e5f4&parId=D9082A29DDC98052%21s24270e4f1c9c42be86ae32dd1e89e3e2&o=OneUp)
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-FF0000?style=for-the-badge&logo=googledrive)](https://github.com/Prathiv-Raj/Prathiv-Raj/blob/main/Prathivraj_Resume_Final.pdf)
 
 </div>
 
